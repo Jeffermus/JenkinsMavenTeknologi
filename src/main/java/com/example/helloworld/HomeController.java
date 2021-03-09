@@ -20,5 +20,5 @@ public class HomeController {
     public void doSomething(){
             name = "anna changed";
     }
-        //håber det her virker hihi
+        //håber det her virker hihi, Det skal bare virke plz!!!
 }
